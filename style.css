@@ -10,7 +10,8 @@ body{
     align-items: center;
     font-size: 130%;
     font-family: 'Open Sans', sans-serif;
-    background-image: url('https://source.unsplash.com/1600x900/?landscape,weather');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .card{
     background-color: black;
